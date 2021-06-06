@@ -4,4 +4,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1Wyatt1&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1Wyatt1&theme=github_dark) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=1Wyatt1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1Wyatt1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
